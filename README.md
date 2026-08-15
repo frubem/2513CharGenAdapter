@@ -11,9 +11,9 @@ Useful for the Apple ][ (revision 0) and Apple ][+ (revision 1 to revision 6). A
 
 Modifications to use 28C64
 
-![Image of board front](https://github.com/frubem/2513CharGenAdapter/blob/photos/front.jpg)
+![Image of board front](https://github.com/frubem/2513CharGenAdapter/blob/main/photos/front.jpg)
 
-![Image of board back](https://github.com/frubem/2513CharGenAdapter/blob/photos/back.jpg)
+![Image of board back](https://github.com/frubem/2513CharGenAdapter/blob/main/photos/back.jpg)
 
 ---
 
