@@ -1,25 +1,21 @@
-# ADM-3a-Lowercase-ROM
+Character Generator Adapter to 2716 EPROM or 28C64 EEPROM
 
-An adapter to use a 2716 UV-erasable EPROM as a Signetics 2513 character generator.
-
----
-
-Useful for the ADM-3a Dumb Terminal, but also applicable to other computer-like devices utilizing the 2513 such as the Apple 1, Apple ][ and Apple ][+. All you need to do is burn the ROM (in the relevant directory) and solder everything together.
-
-
-![Image of OSHPark render](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/Render.png)
-
-![Image of board installed](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/ROMAdapter.jpg)
-
-![Image of board installed](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/reference/ROMswap.jpg)
+An adapter to use a 2716 UV-erasable EPROM or 28C64 EEPROM as a Signetics 2513 character generator.
 
 ---
 
-## References/guides:
+Useful for the Apple ][ (revision 0) and Apple ][+ (revision 1 to revision 6). All you need to do is burn the ROM (in the relevant directory) and solder everything together.
 
-* https://www.esocop.org/docs/LearSeieglerLowerCaseOption.pdf
-* https://web.archive.org/web/20100411231924/http://juliepalooza.8m.com/sl/adm3a-2.htm
-* https://gainos.org/~elf/sgi/nekonomicon/forum/1/16719093/1.html
+
+![Image of mainboard](https://github.com/bbenchoff/2513CharGenAdapter/blob/main/photos/mainboard.jpg)
+
+Modifications to use 28C64
+
+![Image of board front](https://github.com/bbenchoff/2513CharGenAdapter/blob/photos/reference/front.jpg)
+
+![Image of board back](https://github.com/bbenchoff/2513CharGenAdapter/blob/photos/reference/back.jpg)
+
+---
 
 ## Get the board at OSHPARK:
 
