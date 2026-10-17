@@ -9,14 +9,5 @@ Useful for the Apple ][ (revision 0) and Apple ][+ (revision 1 to revision 6). A
 
 ![Image of mainboard](https://github.com/frubem/2513CharGenAdapter/blob/main/photos/mainboard.jpg)
 
-Modifications to use 28C64
 
-![Image of board front](https://github.com/frubem/2513CharGenAdapter/blob/main/photos/front.jpg)
 
-![Image of board back](https://github.com/frubem/2513CharGenAdapter/blob/main/photos/back.jpg)
-
----
-
-## Get the board at OSHPARK:
-
-https://oshpark.com/shared_projects/6vBwcCka
